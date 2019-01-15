@@ -6,8 +6,6 @@ Dit is een project is een tutorial waarin je leert om te gaan met tensorflow en 
 * Git
 
 ## Installeren
-`
  * conda env create -f env.yml
  * source activate tensorflow-tutorial
  * jupyter-notebook
- `
