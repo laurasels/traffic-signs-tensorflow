@@ -6,8 +6,9 @@ Dit is een project is een tutorial waarin je leert om te gaan met tensorflow en 
 * Git
 
 ## Installeren
- * git clone https://github.com/RWS-data-science/traffic-signs-tensorflow.git
- * cd traffic-signs-tensorflow 
- * conda env create -f env.yml
- * source activate tensorflow-tutorial
- * jupyter notebook
+Open een terminal en voer uit (regel voor regel):
+ * `git clone https://github.com/RWS-data-science/traffic-signs-tensorflow.git`
+ * `cd traffic-signs-tensorflow`
+ * `conda env create -f env.yml`
+ * `source activate tensorflow-tutorial`
+ * `jupyter notebook`
