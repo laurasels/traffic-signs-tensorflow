@@ -11,4 +11,4 @@ Open een terminal en voer uit (regel voor regel):
  * `cd traffic-signs-tensorflow`
  * `conda env create -f env.yml`
  * `source activate tensorflow-tutorial`
- * `jupyter notebook`
+ * `jupyter notebook 1\)\ Verkeersborden\ classificeren.ipynb`
