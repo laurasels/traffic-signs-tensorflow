@@ -12,3 +12,6 @@ Open een terminal en voer uit (regel voor regel):
  * `conda env create -f env.yml`
  * `source activate tensorflow-tutorial`
  * `jupyter notebook 1\)\ Verkeersborden\ classificeren.ipynb`
+
+Link naar de data:
+https://we.tl/t-yVc5aXaI1P
