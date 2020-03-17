@@ -1,4 +1,4 @@
-# Traffic Signs Recognition with Tensorflow
+# Verkeersborden herkennen met Tensorflow
 Dit is een project is een tutorial waarin je leert om te gaan met tensorflow en beeldherkenning.
 
 ## Instructies voor workshop
