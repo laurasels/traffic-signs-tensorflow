@@ -2,8 +2,7 @@
 Dit is een project is een tutorial waarin je leert om te gaan met tensorflow en beeldherkenning.
 
 ## Instructies voor workshop
-* Open deze link: https://colab.research.google.com/github/laurasels/workshop_satellietbeelden/blob/master/Workshop_Satellietdata.ipynb#
-
+* Open deze link: https://colab.research.google.com/github/RWS-data-science/traffic-signs-tensorflow/blob/master/1)%20Verkeersborden%20classificeren.ipynb
 
 
 ## Benodigdheden 
