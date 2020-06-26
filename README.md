@@ -2,8 +2,7 @@
 Dit is een project is een tutorial waarin je leert om te gaan met tensorflow en beeldherkenning.
 
 ## Instructies voor workshop
-* Open deze link: https://colab.research.google.com/github/RWS-data-science/traffic-signs-tensorflow/blob/master/1)%20Verkeersborden%20classificeren.ipynb
-
+* Je hoeft niets te installeren en je kan in de browser werken: https://colab.research.google.com/github/laurasels/traffic-signs-tensorflow/blob/master/1)%20Verkeersborden%20classificeren.ipynb
 
 ## Instructies voor als je het in een jupyter notebook wil draaien
 Open een terminal en voer uit (regel voor regel):
